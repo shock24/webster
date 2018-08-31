@@ -1,0 +1,9 @@
+body {
+background-image:url('signup.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+#id1 {
+    padding-top: 60px;
+}
