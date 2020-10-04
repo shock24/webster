@@ -19,7 +19,7 @@
             <div class="collapse in navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#"><span class="glyphicon glyphicon-log-in">Login</span></a></li>
-                    <li><a href="#"><span class="glyphicon glyphicon-user">Sign-Up</span></a></li>
+                    <li><a href="#"><span class="glyphicon glyphicon-user">Sign Up</span></a></li>
                 </ul>
             </div>
         </div>
